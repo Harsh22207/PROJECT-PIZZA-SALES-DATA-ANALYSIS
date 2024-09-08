@@ -4,7 +4,7 @@ Developed an interactive dashboard in MS Excel, utilizing MySQL queries to extra
 This project involves analyzing pizza sales data from a pizza restaurant.
 The goal is to derive key performance metrics and create various visualizations to gain insights into the restaurant's performance.
 
-These key performance metrics are derived using by importing sales to MySQL server and then running appropriate queries for the required results.
+These key performance metrics are derived by importing 1 year of pizza sales data of the restaurant to MySQL server and then running appropriate queries to extract the required results.
 Also, made an interactive dashboard with charts and visualization of the sales data along with key performance metrics.
 The specific tasks and visualizations required are as follows:
 
